@@ -3,7 +3,7 @@ public class Prime
 public static void main(String[] args)   
     {  
 int ct=0,n=0,i=1,j=1;  
-while(n<25)  
+while(n<30)  
 {  
 j=1;  
 ct=0;  
